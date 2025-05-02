@@ -2,4 +2,4 @@
 
 x = input("choose a number: ")
 square = int(x) * int(x)
-print(f"THe Square of {x} is {square}")
+print(f"The Square of {x} is {square}")
